@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=carlswilson22&locale=pt-br&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlswilson22&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=dracula&hide_border=true&custom_title=Linguagens%20Usadas" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlswilson22&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&custom_title=Linguagens%20Usadas" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -60,7 +60,6 @@
 </div>
 
 ###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/carlswilson22/carlswilson22/output/snake.svg" alt="Snake animation" />
