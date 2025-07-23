@@ -43,11 +43,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/carlswilson22/carlswilson22/output/snake.svg" alt="Snake animation" />
-
-###
 
 <p align="left"></p>
 
