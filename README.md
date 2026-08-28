@@ -27,7 +27,7 @@ I’m deeply focused on **Web aplications,Full Stack aplacations, performance an
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 
 ### Backend
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" height="40" alt="MySQL"/>
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
