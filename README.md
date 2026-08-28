@@ -44,11 +44,9 @@ I’m deeply focused on **Web aplications,Full Stack aplacations, performance an
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=carlswilson22&show_icons=true&theme=tokyonight&count_private=true&v=2" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlswilson22&layout=compact&theme=tokyonight" />
-</p>
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=carlswilson22&locale=pt-br&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+</div>
 ---
 
 ## 🚀 My Philosophy
