@@ -3,7 +3,8 @@
 🚀 **Web Development | HTML, CSS & JavaScript**  
 🇧🇷 Brazil
 
-I For now build **Simple Projects**, **SaaS platforms**, and **high-performance web systems**.  
+I For now build **Simple Projects**.
+
 I’m deeply focused on **Web aplications,Full Stack aplacations, performance and clean code**.
 
 ---
@@ -15,10 +16,10 @@ I’m deeply focused on **Web aplications,Full Stack aplacations, performance an
     <img src="https://img.shields.io/badge/GitHub-CARLSWILSONG22-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/_carlswilson">
-    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@_carlswilson_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/carloswilsn/">
-    <img src="https://img.shields.io/badge/Linkedin-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=linkedin&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Linkedin-carloswilsn-FF0000?style=for-the-badge&logo=linkedin&logoColor=blue" />
   </a>
 </p>
 
