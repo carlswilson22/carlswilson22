@@ -8,6 +8,7 @@ I for now build **Simple Projects**.
 I’m deeply focused on **Web aplications,Full Stack aplacations, performance and clean code**.
 
 
+
 ## 🌐 Where to find me
 
 <p align="left">
@@ -23,6 +24,7 @@ I’m deeply focused on **Web aplications,Full Stack aplacations, performance an
 </p>
 
 
+
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -30,13 +32,16 @@ I’m deeply focused on **Web aplications,Full Stack aplacations, performance an
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 
+
 ### Backend
 <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" height="40" alt="MySQL"/>
+
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 
 ## 📊 GitHub Stats
