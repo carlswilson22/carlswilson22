@@ -7,7 +7,6 @@ I for now build **Simple Projects**.
 
 I’m deeply focused on **Web aplications,Full Stack aplacations, performance and clean code**.
 
----
 
 ## 🌐 Where to find me
 
@@ -23,7 +22,6 @@ I’m deeply focused on **Web aplications,Full Stack aplacations, performance an
 </a>
 </p>
 
----
 
 ## 🛠️ Tech Stack
 
@@ -46,7 +44,6 @@ I’m deeply focused on **Web aplications,Full Stack aplacations, performance an
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=carlswilson22&locale=pt-br&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
----
 
 ## 🚀 My Philosophy
 
