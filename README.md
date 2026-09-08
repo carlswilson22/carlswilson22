@@ -40,7 +40,6 @@ I’m deeply focused on **Web aplications,Full Stack aplacations, performance an
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
 
 ## 📊 GitHub Stats
 
