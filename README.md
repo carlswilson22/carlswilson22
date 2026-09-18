@@ -1,7 +1,5 @@
-# Hi 👋, I'm Carlos Wilson
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1200&color=38BDF8&background=00000000&width=520&lines=Frontend+Developer+in+Training+%F0%9F%9A%80;Building+with+AI+Assistance+%F0%9F%A4%96;Mastering+HTML5%2C+CSS3+%26+JavaScript+%F0%9F%92%BB;Crafting+Clean+%26+Meaningful+Code+%E2%9C%A8" alt="Typing SVG Animation" />
+<p align="left"># Hi 👋, I'm Carlos Wilson
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1200&color=38BDF8&background=00000000&width=520&lines=Hi 👋, I'm Carlos Wilson+%F0%9F%9A%80;Frontend+Developer+in+Training+%F0%9F%9A%80;Building+with+AI+Assistance+%F0%9F%A4%96;Mastering+HTML5%2C+CSS3+%26+JavaScript+%F0%9F%92%BB;Crafting+Clean+%26+Meaningful+Code+%E2%9C%A8" alt="Typing SVG Animation" />
 </p>
 
 📍 **Brazil**
