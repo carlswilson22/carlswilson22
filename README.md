@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=700&color=38BDF8&background=00000000&width=600&lines=Hi+%F0%9F%91%8B%2C+I%27m+Carlos+Wilson;%F0%9F%9A%80;Frontend+Developer+in+Training+%F0%9F%9A%80;Building+with+AI+Assistance+%F0%9F%A4%96;Mastering+HTML5%2C+CSS3+%26+JavaScript+%F0%9F%92%BB;Crafting+Clean+%26+Meaningful+Code+%E2%9C%A8" alt="Typing SVG Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=700&color=38BDF8&background=00000000&width=600&lines=Hi+%F0%9F%91%8B%2C+I%27m+Carlos+Wilson;%F0%9F%9A%80;Full+Stack+Developer+in+Training+%F0%9F%9A%80;Building+with+AI+Assistance+%F0%9F%A4%96;Mastering+WEB+TECHNOLOGYS;Crafting+Clean+%26+Meaningful+Code+%E2%9C%A8" alt="Typing SVG Animation" />
 </p>
 
 📍 **Brazil**
